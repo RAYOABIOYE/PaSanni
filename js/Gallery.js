@@ -157,22 +157,7 @@ addImages(imageSrc.peoplePics, peoplePics);
 addImages(imageSrc.reunionPhotos, reunionPhotos);
 addImages(imageSrc.reunionPhotos2, reunionPhotos2);
 
-// addImages(imageSrc.uiTeam, uiTeam);
 
-
-// const addGalleryDivs = function (final = 38, initial = 1) {
-//   for (; initial < final; initial++) {
-//     const html = `
-//     <div class="gallery__item">
-//     <img class='gallery__image' src="gallery_images/m--${initial}.jpg" />
-//     </div>
-//     `;
-//     gallery.insertAdjacentHTML("beforeend", html);
-//   }
-// };
-// addGalleryDivs();
-
-// get images src onclick
 const images = [
   ...imageSrc.peoplePics,
   ...imageSrc.reunionPhotos,
