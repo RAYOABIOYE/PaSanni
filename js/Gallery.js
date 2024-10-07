@@ -97,7 +97,7 @@ const imageSrc = {
     "../assets/images/Gallery/DSC_0018.jpg",
     "../assets/images/Gallery/DSC_0021.jpg",
     "../assets/images/Gallery/DSC_0038.jpg",
-    "../assets/images/Gallery/DSC_0042.jpg",
+    "../assets/images/Gallery/DSC_0038.jpg",
     "../assets/images/Gallery/DSC_0045.jpg",
     "../assets/images/Gallery/DSC_0046.jpg",
     "../assets/images/Gallery/DSC_0047.jpg",
